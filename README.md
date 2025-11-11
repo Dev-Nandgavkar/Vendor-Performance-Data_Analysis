@@ -155,3 +155,10 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
+**Dev Nandgavkar**  
+Data Analyst / Data Visualization Enthusiast  
+
+📧 **Email:** devnandgavkar@gmail.com  
+
+🔗 [GitHub](https://github.com/devnandgavkar) | 🔗 [LinkedIn](https://www.linkedin.com/in/dev-nandgavkar-935432330/)
+
